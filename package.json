@@ -1,0 +1,9 @@
+{
+  "name": "@tanoshii/repository",
+  "version": "0.0.1",
+  "main": "./lib/index.ts",
+  "author": "Christia Cavasin <anluin@gmx.de>",
+  "peerDependencies": {
+    "tanoshii": "github:anluin/tanoshii"
+  }
+}
